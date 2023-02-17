@@ -1,4 +1,4 @@
-package Seminar001double;
+package Seminar001_Homework;
 
 // класс наследник
 public class CurecedProducts extends Product{
